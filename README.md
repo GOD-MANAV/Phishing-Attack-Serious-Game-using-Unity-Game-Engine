@@ -6,4 +6,4 @@
 
 [Original Unity Files Zip ](https://drive.google.com/file/d/1SJocTDzU3y-jUCCSRvOkfVD5IQQ31byE/view?usp=sharing)
 
-![foxdemo](Gameplay images/1.png)
+![foxdemo](Gameplay images/%10 1.png)
